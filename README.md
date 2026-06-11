@@ -9,7 +9,8 @@ Actividad
 Título de la actividad:
 Script SQL con consultas CRUD y consultas JOIN funcionales sobre la base de datos existente.
 
-Modalidad: Tarea individual
+Modalidad: 
+Tarea individual
 
 📝 Indicaciones
 Utilizando la base de datos de gestión de alojamientos turísticos proporcionada, se debe escribir y ejecutar las 20 consultas SQL guiadas de esta práctica, guardar todas las consultas en un único archivo .sql y documentar los resultados obtenidos con capturas de pantalla.
